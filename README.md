@@ -44,3 +44,11 @@ Aby rozpocząć korzystanie z Gmail Auto Sorter, zapoznaj się z naszą [dokumen
 - Python 3.7 lub nowszy
 - Biblioteki: google-api-python-client, google-auth-httplib2, google-auth-oauthlib
 - Konto Google z dostępem do API Gmail
+
+## Licencja
+
+Ten projekt jest udostępniany na licencji MIT. Szczegóły znajdziesz w pliku [LICENSE](LICENSE).
+
+## Autor
+
+Krzysztof - [krzyk](https://github.com/krzyk)
